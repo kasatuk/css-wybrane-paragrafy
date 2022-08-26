@@ -1,0 +1,11 @@
+p{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+p.one , p.three , p.five{
+    background-color: blue;
+}
+p.six , p.nine{
+    opacity: 0.4;
+}
